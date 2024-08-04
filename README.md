@@ -16,8 +16,7 @@ I created this website to showcase my work. I’m always striving to create some
 
 ![App Screenshot](https://i.ibb.co/R7wCHvC/Screenshot-2024-08-04-104717.png)
 
-![App Screenshot](https://i.ibb.co/tP7R8xh/Screenshot-2024-08-04-104732.png
-)
+![App Screenshot](https://i.ibb.co/tP7R8xh/Screenshot-2024-08-04-104732.png)
 
 <!-- [View Live Demo](https://folio-v1-victorcodess.vercel.app/) -->
 
@@ -26,13 +25,7 @@ I created this website to showcase my work. I’m always striving to create some
 Clone the project
 
 ```bash
-  git clone https://github.com/victorcodess/folio-v1
-```
-
-Go to the project directory
-
-```bash
-  cd folio-v1
+  git clone https://github.com/smdumar/Personal-Portfolio
 ```
 
 Install dependencies
