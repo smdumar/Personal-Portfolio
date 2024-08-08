@@ -72,7 +72,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="-mt-36 flex flex-col items-center justify-center sm:-mt-20 lg:my-40 lg:-mt-2 lg:py-40 ">
+      <div className="-mt-60 flex flex-col items-center justify-center sm:-mt-20 md:-mt-60 lg:my-40 lg:-mt-2 lg:py-40 ">
         <div
           className={`relative flex flex-col items-center justify-center ${monaSans.className}   `}
         >
