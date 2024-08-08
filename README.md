@@ -10,13 +10,11 @@ this website is to showcase my work. I’m always striving to create something u
 
 ## Screenshots & Demo
 
-![App Screenshot](https://user-images.githubusercontent.com/84178696/228679118-47e63775-0635-42b2-8838-a80644ef612b.png)
+![App Screenshot](./public/projects/ss1.png)
 
-![App Screenshot](https://i.ibb.co/R7wCHvC/Screenshot-2024-08-04-104717.png)
+![App Screenshot](./public/projects/ss2.png)
 
-
-
-![App Screenshot](./public/projects/alpaca-new.webp)
+![App Screenshot](./public/projects/ss3.png)
 
 
 <!-- [View Live Demo](https://folio-v1-victorcodess.vercel.app/) -->
