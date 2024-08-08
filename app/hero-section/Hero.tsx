@@ -9,7 +9,7 @@ import profile from "../../public/portImg.jpg";
 const Hero = () => {
   return (
     <motion.section
-      className="relative z-10 flex h-[80vh] w-full items-stretch justify-center bg-[url('.//../public/hero.jpg')] bg-cover  bg-center py-0 sm:h-[90vh]  md:h-[100vh]"
+      className="relative z-10 flex h-[100vh] w-full items-stretch justify-center bg-[url('.//../public/hero.jpg')] bg-cover  bg-center py-0 sm:h-[90vh]  md:h-[100vh]"
       id="home"
       initial="initial"
       animate="animate"
@@ -81,7 +81,7 @@ const Hero = () => {
             style="inline-block overflow-hidden pt-1 -mr-4 sm:-mr-5 md:-mr-7 lg:-mr-9 -mb-1 sm:-mb-2 md:-mb-3 lg:-mb-4"
           />
           <motion.div
-            className="absolute bottom-[-110px] mx-auto sm:bottom-[-100px] md:bottom-[-130px] lg:bottom-[-175px]"
+            className="absolute bottom-[-185px] mx-auto sm:bottom-[-100px] md:bottom-[-250px] lg:bottom-[-175px]"
             variants={imageAnimation}
           >
             <Image
@@ -97,9 +97,9 @@ const Hero = () => {
       </div>
 
       <div
-        className="absolute bottom-10 flex items-center 
+        className="absolute bottom-36 flex items-center 
       justify-center
-      md:bottom-10 lg:w-[90%] lg:max-w-[1440px] lg:justify-between"
+      md:bottom-20 lg:w-[90%] lg:max-w-[1440px] lg:justify-between lg:bottom-10"
       >
         <motion.div
           className="  max-w-[350px] md:max-w-[400px] lg:max-w-[400px]"
