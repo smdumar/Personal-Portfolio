@@ -17,7 +17,7 @@ this website is to showcase my work. I’m always striving to create something u
 ![App Screenshot](./public/projects/ss3.png)
 
 
-<!-- [View Live Demo](https://folio-v1-victorcodess.vercel.app/) -->
+[View Live Demo](https://smdumar.netlify.app/)
 
 ## Run Locally
 
