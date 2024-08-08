@@ -14,7 +14,10 @@ this website is to showcase my work. I’m always striving to create something u
 
 ![App Screenshot](https://i.ibb.co/R7wCHvC/Screenshot-2024-08-04-104717.png)
 
-![App Screenshot](https://i.ibb.co/tP7R8xh/Screenshot-2024-08-04-104732.png)
+
+
+![App Screenshot](./public/projects/alpaca-new.webp)
+
 
 <!-- [View Live Demo](https://folio-v1-victorcodess.vercel.app/) -->
 
