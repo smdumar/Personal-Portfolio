@@ -40,30 +40,30 @@ export const metadata: Metadata = {
     title: "smd umar — Frontend Engineer",
     description:
       "Frontend Engineer and Product Designer. Focused on interfaces and experiences, working remotely from TamilNadu, India.",
-    url: "https://smdumar.netlify.app/",
-    siteName: "https://smdumar.netlify.app/",
+    url: "https://www.victorwilliams.me/",
+    siteName: "www.victorwilliams.me",
     images: [
       {
-        url: "https://i.ibb.co/861ftSH/ss2.png",
+        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
         width: 1200,
         height: 630,
-        alt: "SMDUMAR — Frontend Engineer",
+        alt: "Victor Williams — Frontend Engineer",
       },
     ],
     locale: "en-US",
     type: "website",
   },
-  // twitter: {
-  //   card: "summary_large_image",
-  //   title: "Victor Williams — Frontend Engineer",
-  //   description:
-  //     "Frontend Engineer and Product Designer. Focused on interfaces and experiences, working remotely from TamilNadu, India.",
-  //   creator: "victorwill__",
-  //   creatorId: "1243720976552144897",
-  //   images: [
-  //     "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
-  //   ],
-  // },
+  twitter: {
+    card: "summary_large_image",
+    title: "Victor Williams — Frontend Engineer",
+    description:
+      "Frontend Engineer and Product Designer. Focused on interfaces and experiences, working remotely from TamilNadu, India.",
+    creator: "victorwill__",
+    creatorId: "1243720976552144897",
+    images: [
+      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+    ],
+  },
   robots: {
     index: true,
     follow: true,
